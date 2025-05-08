@@ -1,0 +1,6 @@
+requests
+pandas
+selenium
+webdriver_manager
+tkinterdnd2
+python-dotenv
